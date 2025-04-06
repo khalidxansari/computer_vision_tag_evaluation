@@ -1,0 +1,300 @@
+Labels for americans on moon.jpg:
+Flag
+Astronaut
+Cargo pants
+Flag of the united states
+Military uniform
+Moon
+Military person
+Marines
+Soldier
+Astronomical object
+
+Labels for Carnival-YasuyoshiChiba.jpg:
+Light
+Lighting
+Landmark
+Fun
+City
+Event
+Entertainment
+Leisure
+Crowd
+Fan
+
+Labels for Christ statute brazil.jpg:
+Mountain
+Sky
+World
+Azure
+Natural landscape
+Highland
+Sculpture
+Tree
+Statue
+Landscape
+
+Labels for colosseum.jpg:
+Cloud
+Sky
+Plant
+Building
+Tree
+Facade
+City
+Landscape
+Column
+Monument
+
+Labels for Eddie-Adams-1968-saigon-execution-.jpg:
+White
+Black
+Tartan
+Building
+Black-and-white
+Gesture
+Style
+Window
+Plaid
+Monochrome photography
+
+Labels for egypt_sphinx-2.jpg:
+Sky
+Cloud
+Sculpture
+Landscape
+Building material
+Pyramid
+Monument
+Wonders of the world
+Archaeological site
+Art
+
+Labels for Eiffel_Tower under construction.jpg:
+Sky
+Architecture
+Cloud
+Building
+Tree
+Landmark
+Metropolis
+City
+Monument
+Tower
+
+Labels for Festival dance group.jpg:
+Clothing
+Face
+Head
+Eye
+Photograph
+Organ
+Entertainment
+Human
+Human body
+Performing arts
+
+Labels for festival of dead.jpg:
+Fashion
+Hat
+Headgear
+Entertainment
+Sun hat
+Event
+Eyewear
+Tradition
+Fun
+Sky
+
+Labels for gandhi-spinning-wheel.jpg:
+Black-and-white
+Style
+Tints and shades
+Automotive wheel system
+Spoke
+Monochrome photography
+Wheel
+Monochrome
+Hat
+Art
+
+Labels for Golden-Bridge Vietnam.jpg:
+Sky
+Plant
+Mountain
+Cloud
+Slope
+Natural landscape
+Tree
+Leisure
+Travel
+Landscape
+
+Labels for Holi festival India.jpg:
+Sky
+Purple
+Cloud
+Happy
+Crowd
+Entertainment
+Leisure
+Fun
+Magenta
+Travel
+
+Labels for Newyork city workers.jpg:
+Photograph
+White
+Standing
+Hat
+Style
+Crew
+Monochrome
+Team
+Monochrome photography
+Crowd
+
+Labels for old artefact 2.jpg:
+Vase
+Serveware
+Drinkware
+Pottery
+Artifact
+earthenware
+Porcelain
+Art
+Dishware
+Ceramic
+
+Labels for old artefact.jpg:
+Vase
+Drinkware
+Serveware
+Art
+Artifact
+Pottery
+Porcelain
+earthenware
+Creative arts
+Sculpture
+
+Labels for pyramids-getty.jpg:
+Sky
+Cloud
+Ecoregion
+Pyramid
+Triangle
+Landscape
+Travel
+Monument
+Wonders of the world
+Aeolian landform
+
+Labels for south-america-machu-picchu-peru.jpg:
+Cloud
+Sky
+Mountain
+World
+Natural landscape
+Highland
+Terrain
+Slope
+Wonders of the world
+Landscape
+
+Labels for Sphinx.jpg:
+Photograph
+Sculpture
+Statue
+Art
+Landscape
+Travel
+Bedrock
+Formation
+Monochrome photography
+Sky
+
+Labels for taj mahal.jpg:
+Sky
+Daytime
+Plant
+Nature
+World
+Tree
+Architecture
+Building
+Grass
+Atmospheric phenomenon
+
+Labels for the last supper.jpg:
+Painting
+Art
+Wall
+Paint
+Drawing
+Visual arts
+Holy places
+Mural
+History
+Illustration
+
+Labels for tianmenn square tank.jpg:
+Vehicle
+Combat vehicle
+Motor vehicle
+Self-propelled artillery
+Mode of transport
+Wheel
+Tank
+Soldier
+Army
+Military organization
+
+Labels for Tomorrowland-1.jpg:
+Sky
+Atmosphere
+Cloud
+World
+Fireworks
+Purple
+Lighting
+Entertainment
+Crowd
+Fan
+
+Labels for tower bridge london.jpg:
+Cloud
+Water
+Sky
+Blue
+Tower
+Morning
+Building
+Landmark
+Cityscape
+Suspension bridge
+
+Labels for wall of china.jpg:
+Cloud
+Sky
+Plant
+Mountain
+Building
+Landscape
+Wonders of the world
+Travel
+Archaeological site
+Grass
+
+Labels for world war 2.jpg:
+Self-propelled artillery
+Tank
+Combat vehicle
+Vehicle
+Cloud
+Sky
+Mode of transport
+Motor vehicle
+Army
+Building
+

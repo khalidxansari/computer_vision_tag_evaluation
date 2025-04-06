@@ -1,0 +1,336 @@
+Labels for amazon-rainforest.jpg:
+Water
+Water resources
+Ecoregion
+Natural landscape
+Fluvial landforms of streams
+Natural environment
+Vegetation
+Watercourse
+Biome
+Lake
+
+Labels for animals.jpg:
+Sky
+Plant community
+Ecoregion
+Vertebrate
+Zebra
+Natural environment
+Tree
+Neck
+Natural landscape
+Plant
+
+Labels for ARGENTINA GLACIERS  -BAIN Lauren-.jpg:
+Water
+Water resources
+Sky
+Cloud
+Snow
+Natural landscape
+Mountain
+Ice cap
+Freezing
+Polar ice cap
+
+Labels for Baltoro_glacier.jpg:
+Sky
+Mountain
+Snow
+Natural landscape
+Slope
+Glacial landform
+Mountainous landforms
+Landscape
+Geological phenomenon
+Ice cap
+
+Labels for beach sunset 1.jpg:
+Water
+Sky
+Ecoregion
+Light
+Afterglow
+Nature
+Dusk
+Orange
+Sunlight
+Sunset
+
+Labels for beach sunset.jpg:
+Water
+Cloud
+Sky
+Atmosphere
+Water resources
+Daytime
+Afterglow
+Azure
+Nature
+Natural landscape
+
+Labels for beach.jpg:
+Water
+Sky
+Azure
+Blue
+Tree
+Beach
+Plant
+Arecales
+Shade
+Outdoor furniture
+
+Labels for cactus.jpg:
+Plant
+Houseplant
+Terrestrial plant
+Organism
+Vegetation
+Groundcover
+Flowerpot
+Flowering plant
+Landscape
+Annual plant
+
+Labels for colorful flowers.jpg:
+Flower
+Plant
+Petal
+Botany
+Red
+Groundcover
+Flowering plant
+Magenta
+Annual plant
+Close-up
+
+Labels for cononaco-river-amazon-rainforest.jpg:
+Water
+Water resources
+Natural landscape
+Oxbow lake
+River delta
+Vegetation
+Fluvial landforms of streams
+Landscape
+Terrestrial plant
+Urban design
+
+Labels for dream-summer-sunny-day.jpg:
+Flower
+Plant
+Sky
+Ecoregion
+People in nature
+Light
+Nature
+Natural environment
+Petal
+Grass
+
+Labels for elephant family.jpg:
+Plant
+Plant community
+Vertebrate
+Ecoregion
+Elephant
+Natural landscape
+Working animal
+Elephants and Mammoths
+African elephant
+Grass
+
+Labels for flock of birds.jpg:
+Bird
+Water
+Building
+Sky
+Cloud
+Skyscraper
+Beak
+Wing
+Waterfowl
+City
+
+Labels for flower 1.jpg:
+Flower
+Plant
+Petal
+Botany
+Purple
+Terrestrial plant
+Pink
+Groundcover
+Flowering plant
+Herbaceous plant
+
+Labels for flower-plants.jpg:
+Flower
+Plant
+Photograph
+White
+Petal
+Botany
+Blue
+Purple
+Nature
+Yellow
+
+Labels for forest 1.jpg:
+Water
+Water resources
+Mountain
+Plant
+Sky
+Cloud
+Green
+Natural landscape
+Natural environment
+Highland
+
+Labels for green bud.jpg:
+Flower
+Plant
+Leaf
+Petal
+Botany
+Terrestrial plant
+Groundcover
+Shrub
+Herbaceous plant
+Annual plant
+
+Labels for katrina.jpg:
+Water
+Tropical cyclone
+Cloud
+Sky
+World
+Cyclone
+Astronomical object
+Liquid
+Wind wave
+Space
+
+Labels for london pet dogs.jpg:
+Sky
+Cloud
+Tree
+Working animal
+Fawn
+Leisure
+Carnivore
+Travel
+Wood
+Companion dog
+
+Labels for oasis.jpg:
+Cloud
+Sky
+Plant
+Water
+Plant community
+Natural landscape
+Tree
+Oasis
+Mountain
+Plain
+
+Labels for planter.jpg:
+Plant
+Flowerpot
+Houseplant
+Terrestrial plant
+Tree
+Grass
+Flowering plant
+Herbaceous plant
+Wood
+Room
+
+Labels for pollen flower.jpg:
+Flower
+Petal
+Terrestrial plant
+Plant
+Flowering plant
+Herbaceous plant
+Pedicel
+Sky
+Pittosporaceae
+Lily family
+
+Labels for sahara.jpg:
+Sky
+Natural landscape
+Biome
+Terrain
+Landscape
+Horizon
+Tints and shades
+Slope
+Aeolian landform
+Erg
+
+Labels for street.jpg:
+Water
+Sky
+Automotive lighting
+Nature
+Vehicle
+Car
+Window
+Road surface
+Mode of transport
+Morning
+
+Labels for thunderstorm.jpg:
+Lightning
+Sky
+Thunder
+Atmosphere
+Cloud
+Thunderstorm
+Light
+Nature
+Electricity
+Atmospheric phenomenon
+
+Labels for Uk beach.jpg:
+Water
+Sky
+Water resources
+Beach
+Cloud
+Natural landscape
+Sunlight
+Coastal and oceanic landforms
+Wood
+Watercourse
+
+Labels for zebras.jpg:
+Plant
+Plant community
+Vertebrate
+Ecoregion
+Natural environment
+Tree
+Neck
+Natural landscape
+Mammal
+Grass
+
+Labels for Zugpsitze_mountain.jpg:
+Flower
+Plant
+Mountain
+Water
+Sky
+Ecoregion
+Natural landscape
+Nature
+Highland
+Vegetation
+

@@ -1,0 +1,370 @@
+Labels for 1_Roman_Republic_Plautius_Plancus_Denarius.jpg:
+Head
+Photograph
+Coin
+Currency
+Nickel
+Money
+Artifact
+Silver
+Cash
+Metal
+
+Labels for air fryer.jpg:
+Food
+Recipe
+Ingredient
+Kitchen appliance
+Home appliance
+Cuisine
+Dish
+Natural foods
+Cooking
+Gas
+
+Labels for bicycle.jpg:
+Bicycle
+Wheel
+Tire
+Bicycles--Equipment and supplies
+Crankset
+Bicycle wheel
+Bicycle frame
+Bicycle seatpost
+Bicycle wheel rim
+Bicycle tire
+
+Labels for big spoons.jpg:
+Kitchen utensil
+Tableware
+Sports equipment
+Office supplies
+Gesture
+Chair
+Cutlery
+Audio equipment
+Personal protective equipment
+Basic pump
+
+Labels for cd player.jpg:
+Gadget
+Audio equipment
+Font
+Multimedia
+Software
+Electronic device
+Screenshot
+Circle
+Logo
+Graphics
+
+Labels for chair.jpg:
+Furniture
+Chair
+Comfort
+Wood
+Rectangle
+Floor
+Flooring
+Material property
+Hardwood
+Composite material
+
+Labels for coin - japenese.jpg:
+Coin
+Currency
+Money
+Motor vehicle
+Money handling
+Font
+Artifact
+Emblem
+Circle
+Symbol
+
+Labels for dual cd player.jpg:
+Electronic device
+Circle
+Electronics accessory
+Magenta
+Record player
+Blank media
+Font
+Data storage device
+
+Labels for fat tyre e-bike.jpg:
+Bicycle
+Wheel
+Tire
+Bicycles--Equipment and supplies
+Bicycle frame
+Crankset
+Bicycle wheel rim
+Bicycle tire
+Bicycle wheel
+Bicycle seatpost
+
+Labels for ferrari.jpg:
+Automotive parking light
+Wheel
+Tire
+Vehicle
+Car
+Automotive side-view mirror
+Hood
+Automotive lighting
+Automotive tire
+Motor vehicle
+
+Labels for inscripted coin arabic.jpg:
+Font
+Circle
+Artifact
+Art
+Symbol
+Drawing
+Metal
+Logo
+Illustration
+Pattern
+
+Labels for iphone 15.jpg:
+Mobile phone
+Telephony
+Camera
+Communication Device
+Gesture
+Telephone
+Portable communications device
+Bumper
+Mobile device
+Gadget
+
+Labels for kitchen hob.jpg:
+Building
+Pot rack
+Cabinetry
+Kitchen utensil
+Kitchen stove
+Wood
+Home appliance
+Tableware
+Kitchen
+Kitchen appliance
+
+Labels for kitchen table.jpg:
+Food
+Tableware
+Kitchen appliance
+Home appliance
+Kitchen
+Wood
+Interior design
+Cuisine
+Plant
+Major appliance
+
+Labels for lime ebikes.jpg:
+Bicycle
+Tire
+Wheel
+Bicycle tire
+Crankset
+Vehicle
+Automotive tire
+Bicycle frame
+Bicycle fork
+Bicycle saddle
+
+Labels for london busses.jpg:
+Bus
+Land vehicle
+Wheel
+Vehicle
+Double-decker bus
+Tire
+Vehicle registration plate
+Motor vehicle
+Automotive parking light
+Mode of transport
+
+Labels for london fast train.jpg:
+Train
+Vehicle
+Rolling stock
+Nature
+Transport hub
+Mode of transport
+Electricity
+Track
+Railway
+Locomotive
+
+Labels for long truck.jpg:
+Vehicle registration plate
+Tire
+Wheel
+Sky
+Vehicle
+Motor vehicle
+Truck
+Asphalt
+Bumper
+Automotive exterior
+
+Labels for militray truck.jpg:
+Wheel
+Tire
+Automotive parking light
+Vehicle
+Sky
+Automotive tire
+Hood
+Motor vehicle
+Tread
+Grille
+
+Labels for nokia old phone.jpg:
+Mobile phone
+Telephone
+Telephony
+Communication Device
+Portable communications device
+Mobile device
+Space bar
+Gadget
+Font
+Numeric keypad
+
+Labels for old cellphone.jpg:
+Mobile phone
+Telephony
+Portable communications device
+Communication Device
+Mobile device
+Gadget
+Telephone
+Font
+Multimedia
+Electronic device
+
+Labels for old pottery 2.jpg:
+Dishware
+Drinkware
+Serveware
+Artifact
+Souvenir
+Art
+Font
+Porcelain
+Tableware
+Ceramic
+
+Labels for old pottery.jpg:
+Drinkware
+Vase
+Serveware
+Art
+Artifact
+Creative arts
+Tableware
+Pottery
+Urn
+earthenware
+
+Labels for parked aeroplanes.jpg:
+Automotive tire
+Wood
+Tire
+Line
+Automotive wheel system
+Landscape
+Wheel
+Grass
+Agriculture
+Soil
+
+Labels for piccadily line.jpg:
+Train
+Land vehicle
+Vehicle
+Rolling stock
+Transport hub
+Fixture
+Railway
+Mode of transport
+Electricity
+Track
+
+Labels for sofas.jpg:
+Furniture
+Plant
+Couch
+Property
+Outdoor sofa
+Tree
+Outdoor furniture
+Wood
+Sky
+Table
+
+Labels for take off.jpg:
+Sky
+Aircraft
+Airplane
+Jet engine
+Aerospace manufacturer
+Aircraft engine
+Aviation
+Flap
+Travel
+Air travel
+
+Labels for type writer.jpg:
+Peripheral
+Input device
+Output device
+Space bar
+Computer keyboard
+Office equipment
+Gadget
+Office supplies
+Electronic instrument
+Font
+
+Labels for US_Marine_Corps_truck.jpg:
+Wheel
+Tire
+Automotive parking light
+Vehicle
+Automotive tire
+Hood
+Truck
+Tread
+Sky
+Car
+
+Labels for utensils.jpg:
+Tableware
+Dishware
+Drinkware
+Kitchen appliance
+Serveware
+Kitchen utensil
+Cookware and bakeware
+Cutlery
+Kitchen
+Cup
+
+Labels for walkman.jpg:
+Musical instrument accessory
+Office equipment
+Gadget
+Output device
+Audio equipment
+Bumper
+Machine
+Electronic instrument
+Font
+Office supplies
+

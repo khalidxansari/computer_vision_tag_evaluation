@@ -1,0 +1,306 @@
+Labels for amazon-rainforest.jpg:
+Vegetation
+Land
+Nature
+Outdoors
+Tree
+Woodland
+Water
+Aerial View
+Rainforest
+River
+
+Labels for animals.jpg:
+Grassland
+Nature
+Outdoors
+Animal
+Mammal
+Wildlife
+Zebra
+Giraffe
+Elephant
+Savanna
+
+Labels for ARGENTINA GLACIERS  -BAIN Lauren-.jpg:
+Glacier
+Ice
+Mountain
+Nature
+Outdoors
+Scenery
+
+Labels for Baltoro_glacier.jpg:
+Mountain
+Nature
+Outdoors
+Ice
+Glacier
+Mountain Range
+Scenery
+Peak
+Landscape
+
+Labels for beach sunset 1.jpg:
+Nature
+Outdoors
+Sky
+Sunrise
+Sun
+Beach
+Sea
+Horizon
+Scenery
+Person
+
+Labels for beach sunset.jpg:
+Horizon
+Nature
+Outdoors
+Sky
+Scenery
+Sea
+Water
+Beach
+Shoreline
+Panoramic
+
+Labels for beach.jpg:
+Outdoors
+Fun
+Vacation
+Nature
+Tropical
+Summer
+Sky
+Horizon
+Sea
+Beach
+
+Labels for cactus.jpg:
+Plant
+Cactus
+
+Labels for colorful flowers.jpg:
+Flower
+Geranium
+Petal
+Nature
+Outdoors
+Spring
+Purple
+Anemone
+Pansy
+Leaf
+
+Labels for cononaco-river-amazon-rainforest.jpg:
+Outdoors
+Nature
+Vegetation
+Land
+Tree
+Woodland
+Water
+River
+Rainforest
+Aerial View
+
+Labels for dream-summer-sunny-day.jpg:
+Daisy
+Flower
+Nature
+Outdoors
+Sky
+Grassland
+Petal
+Summer
+Sun
+Grass
+
+Labels for elephant family.jpg:
+Animal
+Elephant
+Mammal
+Wildlife
+Field
+Grassland
+Nature
+Outdoors
+Savanna
+Grass
+
+Labels for flock of birds.jpg:
+City
+Metropolis
+Urban
+Cityscape
+Bird
+Flying
+Goose
+Grass
+Office Building
+Downtown
+
+Labels for flower 1.jpg:
+Flower
+Geranium
+Plant
+Petal
+Orchid
+Anemone
+Iris
+Purple
+Acanthaceae
+
+Labels for flower-plants.jpg:
+Flower
+Plant
+Geranium
+Anemone
+Pansy
+Petal
+Rose
+Anther
+Daisy
+
+Labels for forest 1.jpg:
+Jungle
+Land
+Nature
+Outdoors
+Rainforest
+Tree
+Vegetation
+Green
+Scenery
+Woodland
+
+Labels for green bud.jpg:
+Dahlia
+Flower
+Plant
+Petal
+Leaf
+Green
+Vegetation
+Tree
+Bud
+Annonaceae
+
+Labels for katrina.jpg:
+Nature
+Outdoors
+Storm
+Hurricane
+Astronomy
+Outer Space
+
+Labels for london pet dogs.jpg:
+Bridge
+Animal
+Canine
+Dog
+Mammal
+Pet
+Landmark
+Tower Bridge
+Person
+
+Labels for oasis.jpg:
+Summer
+Plant
+Tree
+Nature
+Outdoors
+Dune
+Sand
+Desert
+Scenery
+Palm Tree
+
+Labels for planter.jpg:
+Leaf
+Plant
+Potted Plant
+Cookware
+Pot
+Window
+Windowsill
+Planter
+Pottery
+Vase
+
+Labels for pollen flower.jpg:
+Anther
+Flower
+Plant
+Petal
+Pollen
+Amaryllidaceae
+Lily
+Vegetation
+Geranium
+
+Labels for sahara.jpg:
+Desert
+Nature
+Outdoors
+Scenery
+Shark
+Person
+Sand
+Sky
+Dune
+Ground
+
+Labels for street.jpg:
+City
+Road
+Urban
+Street
+Metropolis
+Person
+Car
+Neighborhood
+Rain
+Outdoors
+
+Labels for thunderstorm.jpg:
+Nature
+Outdoors
+Storm
+Thunderstorm
+Lightning
+Neighborhood
+Weather
+Architecture
+Building
+Palm Tree
+
+Labels for Uk beach.jpg:
+Landmark
+White Cliffs of Dover
+
+Labels for zebras.jpg:
+Animal
+Mammal
+Wildlife
+Zebra
+Field
+Grassland
+Nature
+Outdoors
+Savanna
+
+Labels for Zugpsitze_mountain.jpg:
+Nature
+Outdoors
+Wilderness
+Landscape
+Scenery
+Vegetation
+Lake
+Sky
+Rock
+Tree
+

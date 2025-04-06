@@ -1,0 +1,225 @@
+Coin:
+
+Currency
+Ancient money
+Numismatics
+Metal artifact
+Historical
+
+Air Fryer:
+
+Kitchen appliance
+Cooking gadget
+Healthy cooking
+Countertop device
+Modern kitchen
+
+Bicycle: 
+Transportation
+Cycling
+Two-wheeler
+Outdoor activity
+Fitness equipment
+
+Cooking Utensils:
+Kitchen tools
+Food preparation
+Cookware
+Kitchen essentials
+Culinary instruments
+
+CD Player:
+Audio equipment
+Music player
+Electronics
+Home entertainment
+Digital media
+
+Chair:
+Furniture
+Seating
+Home decor
+Interior design
+Living space
+
+Japanese Coin:
+Currency
+Ancient money
+Numismatics
+Metal artifact
+Historical
+
+Dual CD Player:
+Audio equipment
+Music player
+Electronics
+Home entertainment
+Digital media
+
+Fat Tire E-Bike:
+Electric bicycle
+Transportation
+Outdoor activity
+Eco-friendly
+
+Fitness equipment
+Car:
+Automobile
+Transportation
+Vehicle
+Luxury car
+Sports car
+
+Arabic Coin:
+Currency
+Ancient money
+Numismatics
+Metal artifact
+Historical
+
+iPhone:
+Smartphone
+Mobile device
+Apple product
+Technology
+Communication
+
+Kitchen Hob:
+Kitchen appliance
+Cooking gadget
+Food preparation
+Kitchen essentials
+Culinary equipment
+
+Kitchen Oven:
+Kitchen appliance
+Cooking gadget
+Food preparation
+Baking
+Culinary equipment
+
+Lime E-Bikes:
+Electric bicycle
+Shared transportation
+Eco-friendly
+Urban mobility
+Outdoor activity
+
+London Buses:
+Public transportation
+City buses
+Urban mobility
+Double-decker bus
+London
+
+Fast Train:
+Public transportation
+High-speed rail
+Train travel
+Urban mobility
+London
+
+Long Truck:
+Freight transport
+Heavy vehicle
+Logistics
+Transportation
+Commercial vehicle
+
+Military Truck:
+Defense vehicle
+Armored transport
+Military equipment
+Tactical vehicle
+Transportation
+
+Nokia Old Phone:
+Mobile device
+Communication
+Technology
+Vintage phone
+Cell phone
+
+Palm Treo:
+Smartphone
+Mobile device
+Personal digital assistant
+Communication
+Technology
+
+Silver Bowl:
+Kitchenware
+Decorative item
+Silverware
+Antique
+Dining
+
+Ancient Pottery:
+Ceramic artifact
+Historical item
+Museum piece
+Archeology
+Art
+
+Parked Aeroplanes:
+Aircraft
+Aviation
+Airport
+Transportation
+Planes
+
+Piccadilly Line:
+Public transportation
+Subway train
+London Underground
+Urban mobility
+Metro
+
+Sofas:
+Furniture
+Seating
+Home decor
+Living room
+Interior design
+
+Take Off:
+Airplane
+Aviation
+Flight
+Transportation
+Airport
+
+Typewriter:
+Writing tool
+Vintage equipment
+Office supplies
+Mechanical device
+Typing
+
+US Marine Corps Truck:
+Military vehicle
+Armored transport
+Defense equipment
+Tactical vehicle
+Transportation
+
+Kitchen Utensils:
+Cooking tools
+Kitchen essentials
+Food preparation
+Cookware
+Culinary instruments
+
+Tape Recorder:
+Audio equipment
+Recording device
+Cassette tape
+Home electronics
+Voice recording
+
+Walkman:
+Portable music player
+Audio equipment
+Cassette player
+Personal electronics
+Music listening

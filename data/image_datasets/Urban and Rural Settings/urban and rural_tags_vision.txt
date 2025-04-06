@@ -1,0 +1,360 @@
+Labels for african vilage.jpg:
+Building material
+House
+Landscape
+Adaptation
+Thatching
+Sky
+Building
+Soil
+Hut
+Tourism
+
+Labels for african village 2.jpg:
+Wheel
+Sky
+Plant
+Working animal
+Mode of transport
+Vehicle
+Rural area
+Tire
+Building
+Landscape
+
+Labels for african village kids.jpg:
+Sky
+Temple
+Tree
+Plant
+Travel
+Landscape
+Working animal
+Leisure
+Soil
+Event
+
+Labels for architectural-styles-nyc.jpg:
+Sky
+Automotive design
+Cloud
+Urban design
+Hood
+Grille
+Facade
+Automotive exterior
+Building
+City
+
+Labels for Baku.jpg:
+Sky
+Building
+Urban design
+Composite material
+Facade
+Art
+Commercial building
+Headquarters
+City
+Event
+
+Labels for battersea power station.jpg:
+Cloud
+Sky
+Atmosphere
+World
+Black-and-white
+Chimney
+City
+Plant
+Landmark
+Power station
+
+Labels for bengali-village.jpg:
+Sky
+Cloud
+Ecoregion
+Thatching
+Plant
+Building
+Tree
+House
+Rural area
+Adaptation
+
+Labels for China.jpg:
+Wheel
+Bicycle
+Tire
+Motor vehicle
+Bicycles--Equipment and supplies
+Infrastructure
+Vehicle
+Urban design
+Building
+Thoroughfare
+
+Labels for copenhagensquare.jpg:
+Building
+Daytime
+Photograph
+Infrastructure
+Window
+Architecture
+Urban design
+City
+Crowd
+Travel
+
+Labels for deconstructivist architecture.jpg:
+Cloud
+Sky
+Building
+Window
+Urban design
+Facade
+Commercial building
+City
+House
+Art
+
+Labels for english country side.jpg:
+Plant
+Sky
+Cloud
+Building
+Window
+Road surface
+Tree
+Wood
+House
+Natural landscape
+
+Labels for Florence.jpg:
+Sky
+Daytime
+Mountain
+Azure
+Tree
+Cityscape
+Building
+Landscape
+City
+Morning
+
+Labels for ghiradelli square.jpg:
+Plant
+Infrastructure
+Tree
+Building
+Urban design
+Leisure
+Neighbourhood
+City
+Landmark
+Landscape
+
+Labels for hamspet heath.jpg:
+Sky
+Plant
+Green
+Botany
+Tree
+People in nature
+Grass
+Natural landscape
+Outdoor recreation
+Leisure
+
+Labels for hong-kong-cityscape1.jpg:
+Cloud
+Sky
+Skyscraper
+Water
+Building
+Atmosphere
+Daytime
+Afterglow
+Nature
+World
+
+Labels for Hyde Park (2).jpg:
+Cloud
+Sky
+Atmosphere
+Daytime
+Light
+Nature
+World
+Natural landscape
+Tree
+Urban design
+
+Labels for Hyde park.jpg:
+Water
+Sky
+Water resources
+Plant
+Tree
+Natural environment
+Lake
+Land lot
+Biome
+Grass
+
+Labels for landscape_and_architecture_in_seoul_korea..jpg:
+Water
+Sky
+Plant
+Daytime
+Nature
+Mountain
+Botany
+Natural landscape
+Chinese architecture
+Tree
+
+Labels for London Big ben.jpg:
+Water
+Sky
+Building
+Tower
+Clock
+Morning
+City
+Cityscape
+Dusk
+Waterway
+
+Labels for Lou-Ruvo-Center-for-Brain-Health.jpg:
+Sky
+Building
+Daytime
+Blue
+Azure
+World
+Architecture
+Urban design
+Facade
+Condominium
+
+Labels for modern architecture.jpg:
+Sky
+Cloud
+Building
+Window
+Tree
+Plant
+Fixture
+Urban design
+Real estate
+Facade
+
+Labels for Newyork central park.jpg:
+Water resources
+Daytime
+Sky
+Plant
+World
+Nature
+Building
+Skyscraper
+Water
+Urban design
+
+Labels for NYC aerial view.jpg:
+Building
+Window
+Mode of transport
+Tower block
+Car
+Urban design
+Thoroughfare
+Cityscape
+Neighbourhood
+Vehicle
+
+Labels for regent street christmas.jpg:
+Tire
+Land vehicle
+Wheel
+Vehicle
+Building
+Car
+Automotive lighting
+Infrastructure
+Sky
+Road surface
+
+Labels for regents park.jpg:
+Plant
+Sky
+Tree
+Natural landscape
+Hedge
+Grass
+Landscape
+Shrub
+Fountain
+Tints and shades
+
+Labels for shanghai china.jpg:
+Sky
+Water
+Skyscraper
+Building
+Tower
+Tower block
+Cityscape
+City
+Condominium
+Urban design
+
+Labels for Singapore.jpg:
+Cloud
+Sky
+Water
+Building
+Light
+Blue
+Nature
+World
+Body of water
+Skyscraper
+
+Labels for sydney.jpg:
+Water
+Building
+Sky
+Daytime
+Boat
+World
+Skyscraper
+Dusk
+Tower block
+Urban design
+
+Labels for trafalgar.jpg:
+Cloud
+Sky
+Daytime
+Building
+Infrastructure
+Plant
+Tree
+Tower
+Urban design
+Thoroughfare
+
+Labels for vatican.jpg:
+Sky
+Cloud
+Building
+Window
+City
+Facade
+Monument
+Symmetry
+Plant
+Dome
+

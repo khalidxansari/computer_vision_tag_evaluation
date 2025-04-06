@@ -1,0 +1,252 @@
+Labels for Bangor-Graduation-21.jpg:
+Outerwear
+Smile
+Black
+Mortarboard
+Scholar
+Academic dress
+Graduation
+Gesture
+Sleeve
+Headgear
+
+Labels for cooking at home.jpg:
+Smile
+Cooking
+Food
+Kitchen appliance
+Recipe
+Home appliance
+Tableware
+Kitchen
+Countertop
+Beard
+
+Labels for cooking-at-home.jpg:
+Food
+Tableware
+Table
+Sharing
+Window
+Recipe
+Mixing bowl
+Happy
+Plate
+Smile
+
+Labels for girl with shopping bags.jpg:
+Glasses
+Vision care
+Goggles
+Sunglasses
+Fashion
+Gesture
+Eyewear
+Microphone
+Plant
+Beauty
+
+Labels for kids in class.jpg:
+Blue
+Sharing
+Television set
+Social group
+Leisure
+T-shirt
+Television
+Toddler
+Child
+Event
+
+Labels for London tube rush hour.jpg:
+Train
+Vehicle
+Motor vehicle
+Rolling stock
+Hat
+Mode of transport
+Public transport
+Travel
+Jacket
+Passenger
+
+Labels for london-englanduk-covent-gardenmarketshopping-shopper.jpg:
+Photograph
+Temple
+Selling
+Shopping
+Leisure
+Market
+Travel
+City
+Retail
+Fun
+
+Labels for musician on street mixed race.jpg:
+Musical instrument
+Shoe
+Musician
+Blue
+Guitar
+Hat
+Window
+Drum
+String instrument
+Plucked string instruments
+
+Labels for new-orleans-musicians-luisiana.jpg:
+Musical instrument
+Drum
+Infrastructure
+Musician
+Building
+Folk instrument
+String instrument
+Music
+Road
+Band plays
+
+Labels for office workers-online meeting.jpg:
+Table
+Computer
+Laptop
+Furniture
+Shirt
+Personal computer
+Chair
+Interior design
+Interaction
+Leisure
+
+Labels for office workers.jpeg:
+Computer
+Table
+Personal computer
+Furniture
+Computer monitor
+Computer desk
+Desk
+Computer keyboard
+Peripheral
+Desktop computer
+
+Labels for passengers-reading-books-and-newspapers-in-a-london-underground.jpg:
+Train
+Motor vehicle
+Mode of transport
+Automotive design
+Travel
+Hat
+Public transport
+Passenger
+Metropolitan area
+Event
+
+Labels for people relaxing outdoors.jpg:
+Cloud
+Plant
+Sky
+Window
+Nature
+Building
+Tree
+Grass
+Leisure
+City
+
+Labels for piccadilly-line-passengers-in-overcrowded- carriage.jpg:
+Train
+Vehicle
+Mode of transport
+Travel
+Rolling stock
+Jacket
+Public transport
+Passenger
+Air travel
+Hat
+
+Labels for reading a book on tube.jpg:
+Train
+Mode of transport
+Travel
+Public transport
+Passenger
+Electric blue
+Motor vehicle
+Belt
+Vehicle door
+Job
+
+Labels for school-playground.jpg:
+Clothing
+Plant
+Tree
+Woody plant
+Leisure
+Shorts
+Recreation
+City
+Fun
+Event
+
+Labels for street musicians.jpg:
+Musical instrument
+Band plays
+Musician
+Drum
+Orange
+Microphone
+Performing arts
+Music
+Door
+Entertainment
+
+Labels for teacher in class.jpg:
+Table
+Chair
+Desk
+Engineering
+Teacher
+Leisure
+Event
+T-shirt
+Academic institution
+Art
+
+Labels for two girls shopping.jpg:
+Hand
+Outerwear
+Hairstyle
+Smile
+Hat
+Sleeve
+Textile
+Eyewear
+Standing
+Travel
+
+Labels for vegetable seller africa.jpg:
+Food
+Umbrella
+Selling
+Green
+Natural foods
+Sky
+Hawker
+Greengrocer
+Whole food
+Market
+
+Labels for vegetable shopper.jpg:
+Food
+Selling
+Green
+Product
+Natural foods
+Greengrocer
+Whole food
+Ingredient
+Food group
+Retail
+

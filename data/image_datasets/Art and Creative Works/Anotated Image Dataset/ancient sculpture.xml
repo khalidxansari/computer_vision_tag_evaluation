@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Art and Creative Works</folder>
+	<filename>ancient sculpture.jpg</filename>
+	<path>D:\Kings College\Dissertation\Revised Image Datasets\Art and Creative Works\ancient sculpture.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Human Face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>35</ymin>
+			<xmax>124</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sculpture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>33</ymin>
+			<xmax>126</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

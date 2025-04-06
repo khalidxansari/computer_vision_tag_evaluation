@@ -1,0 +1,220 @@
+Tags for arab magazine.jpg:
+text (99.97%)
+newspaper (99.80%)
+news (94.33%)
+newsprint (92.55%)
+publication (90.94%)
+tabloid (85.39%)
+magazine (56.30%)
+senior (45.68%)
+
+Tags for Arabic news paper.jpg:
+text (99.99%)
+newspaper (99.43%)
+man (97.94%)
+news (93.91%)
+clothing (90.10%)
+publication (87.71%)
+person (87.69%)
+suit (84.68%)
+newsprint (84.33%)
+
+Tags for arabic poetry with translation.jpg:
+text (100.00%)
+font (95.24%)
+handwriting (87.63%)
+calligraphy (85.35%)
+ink (84.12%)
+document (83.34%)
+
+Tags for chinese poem.jpg:
+text (99.98%)
+font (97.16%)
+handwriting (95.71%)
+typography (89.28%)
+number (87.45%)
+calligraphy (84.93%)
+
+Tags for eng book page.png:
+text (99.85%)
+screenshot (96.80%)
+
+Tags for eng newspaper.jpg:
+text (99.99%)
+newspaper (99.82%)
+newsprint (87.75%)
+black and white (51.93%)
+monochrome (44.22%)
+
+Tags for eng page of book.jpg:
+text (100.00%)
+book (97.57%)
+paper (92.95%)
+handwriting (90.54%)
+font (86.06%)
+publication (85.72%)
+number (85.68%)
+document (75.24%)
+
+Tags for GoogleBooksScan.jpg:
+text (99.91%)
+letter (94.13%)
+black and white (89.23%)
+screenshot (84.44%)
+document (80.19%)
+
+Tags for hand written note 2.jpg:
+text (99.40%)
+handwriting (99.26%)
+calligraphy (91.78%)
+letter (88.65%)
+font (87.57%)
+ink (84.56%)
+document (70.47%)
+
+Tags for hand written note.jpg:
+text (99.87%)
+handwriting (98.90%)
+letter (90.56%)
+paper (88.11%)
+document (85.39%)
+
+Tags for hindi poetry.jpg:
+text (99.84%)
+book (92.11%)
+plant (49.95%)
+
+Tags for japenese script.jpg:
+text (99.84%)
+handwriting (97.89%)
+paper (88.75%)
+book (87.70%)
+calligraphy (87.47%)
+document (72.57%)
+
+Tags for Khalil Gibran poetry.jpg:
+text (99.14%)
+handwriting (98.35%)
+human face (96.28%)
+letter (91.96%)
+man (86.31%)
+autograph (86.20%)
+calligraphy (85.75%)
+signature (85.47%)
+ink (85.14%)
+document (62.89%)
+black and white (40.46%)
+
+Tags for le-monde_1.jpg:
+text (99.93%)
+newspaper (99.71%)
+publication (95.83%)
+newsprint (92.88%)
+paper (90.23%)
+
+Tags for magazine page.jpg:
+text (99.99%)
+newspaper (99.79%)
+news (94.74%)
+newsprint (92.09%)
+publication (91.96%)
+person (89.52%)
+human face (89.24%)
+tabloid (89.17%)
+magazine (81.65%)
+
+Tags for magna carta.jpg:
+text (99.94%)
+handwriting (98.18%)
+letter (97.90%)
+book (91.27%)
+calligraphy (87.10%)
+paper (86.88%)
+document (65.85%)
+
+Tags for Marlyn monoroe cover life.webp:
+text (99.92%)
+human face (99.12%)
+clothing (95.36%)
+lady (94.50%)
+smile (93.68%)
+person (93.25%)
+female person (92.60%)
+poster (92.57%)
+book (90.28%)
+woman (88.41%)
+retro style (87.98%)
+dress (87.19%)
+magazine (85.34%)
+
+Tags for multiple magazine covers.jpg:
+text (99.97%)
+human face (97.29%)
+poster (94.29%)
+man (94.01%)
+graphic design (87.43%)
+fiction (85.34%)
+illustration (84.18%)
+art (49.50%)
+
+Tags for nat geo cover.jpg:
+text (99.87%)
+human face (97.00%)
+book (95.47%)
+poster (95.19%)
+clothing (91.36%)
+woman (89.25%)
+book cover (86.83%)
+
+Tags for NationalGeographic.jpg:
+text (100.00%)
+human face (99.17%)
+poster (95.27%)
+woman (94.13%)
+magazine (88.84%)
+publication (88.33%)
+book cover (87.62%)
+flyer (85.66%)
+person (68.92%)
+book (53.29%)
+
+Tags for old arabic script.jpg:
+handwriting (90.81%)
+text (89.43%)
+drawing (84.36%)
+indoor (52.85%)
+
+Tags for old newspaper.jpg:
+text (99.66%)
+newspaper (99.64%)
+newsprint (93.23%)
+publication (91.29%)
+news (88.71%)
+person (85.11%)
+
+Tags for times cover 9 11.webp:
+text (99.66%)
+poster (94.98%)
+screenshot (92.12%)
+outdoor (63.88%)
+smoke (55.43%)
+
+Tags for times cover.jpg:
+text (99.99%)
+dog (97.36%)
+clothing (94.99%)
+woman (92.33%)
+footwear (90.87%)
+poster (90.00%)
+flyer (85.39%)
+person (67.37%)
+magazine (49.26%)
+
+Tags for Urdu poetry.jpg:
+text (99.98%)
+handwriting (96.78%)
+font (94.57%)
+calligraphy (88.23%)
+typography (71.18%)
+document (56.25%)
+

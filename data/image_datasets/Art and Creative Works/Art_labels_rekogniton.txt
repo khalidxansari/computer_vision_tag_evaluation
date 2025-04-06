@@ -1,0 +1,427 @@
+Labels for abstract modern art painting.png:
+Art
+Painting
+Modern Art
+Plant
+Text
+Drawing
+Face
+Head
+Home Decor
+Handwriting
+
+Labels for ancient sculpture.jpg:
+Art
+Bronze
+Sculpture
+Indoors
+Statue
+Person
+Pottery
+Archaeology
+
+Labels for art-collage.jpg:
+Art
+Painting
+Modern Art
+Person
+Mural
+Architecture
+Building
+Church
+
+Labels for ballet dance group.jpg:
+Dancing
+Person
+Ballerina
+Ballet
+Adult
+Bride
+Female
+Woman
+Footwear
+Shoe
+
+Labels for bronze-sculpture-of-horse-.jpg:
+Bronze
+Livestock
+Animal
+Mammal
+Bull
+Wildlife
+Zebra
+Goat
+Buffalo
+Figurine
+
+Labels for dance group indian dressed.jpg:
+Dancing
+Person
+Adult
+Female
+Woman
+Male
+Man
+Bride
+People
+Guitar
+
+Labels for dance.jpg:
+Dancing
+Person
+Adult
+Bride
+Female
+Woman
+Shoe
+Ballerina
+Ballet
+Group Performance
+
+Labels for Digital art outdoors.jpg:
+Lighting
+Person
+Urban
+Outdoors
+Light
+Performer
+Solo Performance
+Paper
+Musical Instrument
+Musician
+
+Labels for digital painting mountains.jpg:
+Nature
+Outdoors
+Scenery
+Landscape
+Hiking
+Person
+Wilderness
+Panoramic
+Shark
+Sky
+
+Labels for digital-illustration-outdoors.jpg:
+Nature
+Outdoors
+Scenery
+Landscape
+Bird
+Vegetation
+Flying
+Tree
+Blackbird
+Art
+
+Labels for Digital-Painting-Art-Style-city scape.jpg:
+Art
+Modern Art
+Person
+Architecture
+Building
+Head
+Painting
+City
+Lighting
+Urban
+
+Labels for Hallow-sculpture-Illinois-4.jpg:
+Adult
+Male
+Man
+Person
+Face
+Head
+Grass
+Park
+Sculpture
+Statue
+
+Labels for Laumeier-Sculpture-Park-in-St.-Louis.jpg:
+Sphere
+Grass
+Nature
+Outdoors
+Park
+Tree
+Vegetation
+Grove
+Person
+Lawn
+
+Labels for live rock band.jpg:
+Guitar
+Adult
+Female
+Person
+Woman
+Male
+Man
+Wristwatch
+Necklace
+Glove
+
+Labels for michelangelos-david2.jpg:
+Adult
+Male
+Man
+Person
+Art
+Face
+Head
+Sculpture
+Figurine
+Archaeology
+
+Labels for music-theatre_website-900x700-1-900x500.jpg:
+Group Performance
+Person
+Adult
+Female
+Woman
+Male
+Man
+High Heel
+Shoe
+Dancing
+
+Labels for pop art poster.jpg:
+Book
+Comics
+Publication
+Baby
+Person
+Adult
+Male
+Man
+Art
+Shoe
+
+Labels for pop-scultpture-figure.jpg:
+Adult
+Male
+Man
+Person
+Face
+Head
+Art
+Yoga
+Bridge
+Landmark
+
+Labels for rock act live.jpg:
+Concert
+Person
+Guitar
+Musician
+Performer
+Singing
+Adult
+Male
+Man
+Group Performance
+
+Labels for starry-night.jpg:
+Art
+Painting
+Modern Art
+Animal
+Bird
+Canvas
+Mural
+
+Labels for steamp punk bear.jpg:
+Grass
+Nature
+Outdoors
+Park
+Vegetation
+Tree
+Wood
+Woodland
+Art
+Person
+
+Labels for steampunk bull.jpg:
+Gun
+Weapon
+Toy
+Animal
+Mammal
+Rock
+Armor
+
+Labels for steampunk-sculpture-goat.jpg:
+Art
+Bronze
+Animal
+Elephant
+Mammal
+Livestock
+Sculpture
+Statue
+Wood
+Bull
+
+Labels for steel-sculpture.jpg:
+Person
+Machine
+Propeller
+Desk
+Furniture
+Table
+Airplane
+Transportation
+Vehicle
+Balloon
+
+Labels for Tate+Kids.jpg:
+Banana
+Food
+Fruit
+Produce
+Adult
+Female
+Person
+Woman
+Shark
+Boat
+
+Labels for van gogh mirror less.jpg:
+Art
+Modern Art
+Person
+Silhouette
+Shoe
+Painting
+Head
+Ice
+Water
+Lighting
+
+Labels for vangogh painting.jpg:
+Art
+Painting
+Plant
+Vegetation
+Outdoors
+Tree
+Nature
+
+Labels for Whirling-Dervish-The-Art-of-Sufi-Dance.jpg:
+Dancing
+Person
+People
+Adult
+Male
+Man
+Bride
+Female
+Woman
+Face
+
+Labels for ancient sculpture.jpg:
+Art
+Bronze
+Sculpture
+Indoors
+Statue
+Person
+Pottery
+Archaeology
+
+Labels for art-collage.jpg:
+Art
+Painting
+Modern Art
+Person
+Mural
+Architecture
+Building
+Church
+
+Labels for bronze-sculpture-of-horse-.jpg:
+Bronze
+Livestock
+Animal
+Mammal
+Bull
+Wildlife
+Zebra
+Goat
+Buffalo
+Figurine
+
+Labels for dance group indian dressed.jpg:
+Dancing
+Person
+Adult
+Female
+Woman
+Male
+Man
+Bride
+People
+Guitar
+
+Labels for dance.jpg:
+Dancing
+Person
+Adult
+Bride
+Female
+Woman
+Shoe
+Ballerina
+Ballet
+Group Performance
+
+Labels for Digital art outdoors.jpg:
+Lighting
+Person
+Urban
+Outdoors
+Light
+Performer
+Solo Performance
+Paper
+Musical Instrument
+Musician
+
+Labels for digital painting mountains.jpg:
+Nature
+Outdoors
+Scenery
+Landscape
+Hiking
+Person
+Wilderness
+Panoramic
+Shark
+Sky
+
+Labels for Art and Creative Category Images Screenshot 1.jpg:
+Art
+Collage
+Person
+Adult
+Male
+Man
+Painting
+Face
+Horse
+Dinosaur
+
+Labels for Art and Creative Category Images Screenshot 2.png:
+Art
+Collage
+Person
+Dancing
+Face
+Head
+Book
+People
+Stage
+Performer
+

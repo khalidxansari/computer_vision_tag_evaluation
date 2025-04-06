@@ -1,0 +1,221 @@
+Labels for arab magazine.jpg:
+Newspaper
+Text
+Adult
+Male
+Man
+Person
+Boy
+Child
+Head
+Face
+
+Labels for Arabic news paper.jpg:
+Publication
+Text
+Newspaper
+Adult
+Male
+Man
+Person
+QR Code
+Face
+Head
+
+Labels for arabic poetry with translation.jpg:
+Page
+Text
+Book
+Publication
+Handwriting
+Letter
+
+Labels for chinese poem.jpg:
+Text
+Alphabet
+
+Labels for eng book page.png:
+Computer
+Electronics
+Tablet Computer
+Page
+Text
+Mobile Phone
+Phone
+
+Labels for eng newspaper.jpg:
+Text
+Newspaper
+Person
+Head
+Face
+
+Labels for eng page of book.jpg:
+Book
+Publication
+Page
+Text
+Novel
+Diary
+
+Labels for GoogleBooksScan.jpg:
+Page
+Text
+Letter
+Handwriting
+Book
+Publication
+Advertisement
+Poster
+
+Labels for hand written note 2.jpg:
+Text
+Handwriting
+White Board
+Letter
+
+Labels for hand written note.jpg:
+Text
+White Board
+Handwriting
+Page
+Letter
+
+Labels for hindi poetry.jpg:
+Page
+Text
+Herbal
+Plant
+Advertisement
+Poster
+Leaf
+Greeting Card
+Mail
+Letter
+
+Labels for japenese script.jpg:
+Text
+Book
+Publication
+Handwriting
+Animal
+Bird
+Alphabet
+Calligraphy
+
+Labels for Khalil Gibran poetry.jpg:
+Text
+Adult
+Male
+Man
+Person
+White Board
+Handwriting
+Document
+
+Labels for le-monde_1.jpg:
+Text
+Newspaper
+Document
+Id Cards
+Passport
+Page
+
+Labels for magazine page.jpg:
+Adult
+Male
+Man
+Person
+Newspaper
+Text
+Publication
+Female
+Woman
+Baby
+
+Labels for magna carta.jpg:
+Book
+Publication
+Text
+Page
+Handwriting
+Novel
+Diary
+
+Labels for multiple magazine covers.jpg:
+Publication
+Adult
+Male
+Man
+Person
+Face
+Head
+Advertisement
+Poster
+Book
+
+Labels for nat geo cover.jpg:
+Publication
+Book
+Adult
+Female
+Person
+Woman
+Fashion
+Advertisement
+Poster
+Hoodie
+
+Labels for NationalGeographic.jpg:
+Advertisement
+Poster
+Publication
+Head
+Person
+Photography
+Portrait
+Book
+Blackboard
+Novel
+
+Labels for old arabic script.jpg:
+Text
+Book
+Publication
+Calligraphy
+Handwriting
+Alphabet
+Symbol
+Number
+
+Labels for old newspaper.jpg:
+Newspaper
+Text
+Person
+Adult
+Male
+Man
+Bride
+Female
+Woman
+Face
+
+Labels for times cover.jpg:
+Publication
+Adult
+Female
+Person
+Woman
+Chair
+Shoe
+Magazine
+Face
+Jeans
+
+Labels for Urdu poetry.jpg:
+Text
+Blackboard
+Document
+Alphabet
+Handwriting
+

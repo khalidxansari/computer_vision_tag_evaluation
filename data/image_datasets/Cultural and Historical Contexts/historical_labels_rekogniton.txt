@@ -1,0 +1,273 @@
+Labels for americans on moon.jpg:
+Aircraft
+Airplane
+Landing
+Glove
+Baby
+Person
+American Flag
+Flag
+Astronomy
+Outer Space
+
+Labels for Carnival-YasuyoshiChiba.jpg:
+Carnival
+Adult
+Bride
+Female
+Person
+Woman
+Face
+Head
+Dancing
+Festival
+
+Labels for Christ statute brazil.jpg:
+Art
+Adult
+Male
+Man
+Person
+Sculpture
+Statue
+Landmark
+Building
+Tower
+
+Labels for colosseum.jpg:
+Colosseum
+Landmark
+Person
+Car
+Transportation
+Vehicle
+
+Labels for Eddie-Adams-1968-saigon-execution-.jpg:
+Helmet
+Adult
+Male
+Man
+Person
+Mobile Phone
+Gun
+Weapon
+Firearm
+Handgun
+
+Labels for egypt_sphinx-2.jpg:
+Landmark
+The Great Sphinx
+Architecture
+Building
+Pyramid
+
+Labels for Eiffel_Tower under construction.jpg:
+Person
+Building
+Eiffel Tower
+Landmark
+Tower
+City
+Monastery
+Cityscape
+Metropolis
+Arch
+
+Labels for Festival dance group.jpg:
+Carnival
+Dancing
+Person
+Adult
+Female
+Woman
+Bride
+Face
+Head
+Necklace
+
+Labels for festival of dead.jpg:
+Festival
+Adult
+Bride
+Female
+Person
+Woman
+Face
+Halloween
+Necklace
+Hat
+
+Labels for gandhi-spinning-wheel.jpg:
+Adult
+Male
+Man
+Person
+Face
+Head
+Wheel
+Glasses
+Beard
+Working Out
+
+Labels for Golden-Bridge Vietnam.jpg:
+Vegetation
+Land
+Nature
+Outdoors
+Tree
+Woodland
+Bridge
+Road
+Aerial View
+Person
+
+Labels for Holi festival India.jpg:
+Adult
+Female
+Person
+Woman
+Festival
+Holi
+Face
+Head
+
+Labels for Newyork city workers.jpg:
+City
+Person
+Adult
+Male
+Man
+Urban
+Shoe
+Hat
+Glove
+Metropolis
+
+Labels for old artefact 2.jpg:
+Jar
+Pottery
+Vase
+Urn
+Beverage
+Coffee
+Coffee Cup
+Cookware
+Pot
+Cup
+
+Labels for old artefact.jpg:
+Jar
+Pottery
+Vase
+Adult
+Bride
+Female
+Person
+Woman
+Urn
+Cup
+
+Labels for pyramids-getty.jpg:
+Architecture
+Building
+Great Pyramids of Giza
+Landmark
+Pyramid
+Person
+Animal
+Horse
+Mammal
+
+Labels for south-america-machu-picchu-peru.jpg:
+Landmark
+Machu Picchu
+
+Labels for Sphinx.jpg:
+Helmet
+Landmark
+The Great Sphinx
+Person
+Clothing
+Hat
+Accessories
+Bag
+Handbag
+
+Labels for taj mahal.jpg:
+Building
+Arch
+Gothic Arch
+Dome
+Outdoors
+Scenery
+Person
+Tomb
+Taj Mahal
+Lighthouse
+
+Labels for the last supper.jpg:
+Art
+Painting
+Adult
+Female
+Person
+Woman
+Face
+Head
+Male
+Man
+
+Labels for tianmenn square tank.jpg:
+War
+Baseball (Ball)
+Person
+Armored
+Military
+Tank
+Vehicle
+Handbag
+Car
+Military Base
+
+Labels for Tomorrowland-1.jpg:
+Concert
+Crowd
+Person
+Fun
+Theme Park
+Windmill
+Adult
+Male
+Man
+Balloon
+
+Labels for tower bridge london.jpg:
+Bridge
+Landmark
+Tower Bridge
+Architecture
+Building
+Clock Tower
+Tower
+Person
+
+Labels for wall of china.jpg:
+Great Wall of China
+Landmark
+Architecture
+Building
+Castle
+Fortress
+
+Labels for world war 2.jpg:
+Armored
+Military
+Tank
+Vehicle
+Weapon
+Person
+Wheel
+Car
+Truck
+Face
+

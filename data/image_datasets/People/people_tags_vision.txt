@@ -1,0 +1,276 @@
+Labels for adults selfie.jpg:
+Smile
+Nose
+Skin
+Chin
+Mouth
+Facial expression
+Tooth
+White
+Human
+Neck
+
+Labels for baby_girl.jpg:
+Face
+Skin
+Arm
+White
+Product
+Baby & toddler clothing
+Sleeve
+Gesture
+Toddler
+Happy
+
+Labels for black girl.jpg:
+Forehead
+Nose
+Brown
+Cheek
+Skin
+Lip
+Eyelash
+Flash photography
+Jaw
+Temple
+
+Labels for black portrait.jpg:
+Forehead
+Nose
+Cheek
+Lip
+Eyelash
+Flash photography
+Jaw
+Iris
+Ear
+No expression
+
+Labels for elderly doing excercise.jpg:
+Furniture
+Gesture
+Happy
+Chair
+Couch
+Event
+Fashion design
+Performing arts
+Fun
+Leisure
+
+Labels for elderly gardening.jpg:
+Plant
+Plant community
+People in nature
+Sky
+Natural environment
+Tree
+Farmer
+Grass
+Agriculture
+Natural landscape
+
+Labels for elderly playing table tennis.jpg:
+Smile
+Muscle
+Gesture
+Happy
+Leisure
+T-shirt
+Community
+Shorts
+Grass
+Competition event
+
+Labels for Elderly_woman_gardening_in_backyard_with_daughter_.jpg:
+Plant
+Flower
+Wheel
+Hat
+Sun hat
+Grass
+Leisure
+Terrestrial plant
+Wheelchair
+Summer
+
+Labels for eledelry gardening.jpg:
+Plant
+Natural environment
+Tree
+Sky
+Garden tool
+People in nature
+Grass
+Rural area
+Landscape
+Compost
+
+Labels for family photos.jpg:
+Water
+People in nature
+People on beach
+Sky
+Flash photography
+Gesture
+Happy
+Style
+Black-and-white
+Leisure
+
+Labels for Gladiators.pose.for.tourists.in.rome.jpg:
+Footwear
+Shoe
+Hat
+Shorts
+Event
+Belt
+Tradition
+Eyewear
+Costume
+Fun
+
+Labels for group of people mixed.jpg:
+Glasses
+Skin
+Hairstyle
+Facial expression
+Black
+Fashion
+Flash photography
+Social group
+Smile
+Art
+
+Labels for kid with cows.jpg:
+Nature
+People in nature
+Happy
+Sunlight
+Rabbit
+Grass
+Hat
+Fawn
+Grassland
+Summer
+
+Labels for kids playing football.jpg:
+Shorts
+Soccer
+Playing sports
+Sports equipment
+Plant
+Football
+Green
+Tree
+Player
+Ball
+
+Labels for kids playing in park.jpg:
+Face
+Smile
+Plant
+People in nature
+Botany
+Happy
+Tree
+Leisure
+Grass
+Adaptation
+
+Labels for kids playing outdoors.jpg:
+Jeans
+Shorts
+Plant
+Daytime
+Window
+Vertebrate
+Sports equipment
+Football
+Soccer
+Ball
+
+Labels for people eating pizza.jpg:
+Food
+Tableware
+Human
+Table
+Orange
+Plate
+Sharing
+Cuisine
+Wine glass
+Dish
+
+Labels for twin babies.jpg:
+Face
+Cheek
+Skin
+Chin
+Comfort
+Baby
+Gesture
+Happy
+Flash photography
+Toddler
+
+Labels for white adult.jpg:
+Nose
+Cheek
+Lip
+Eyebrow
+Eyelash
+Flash photography
+Jaw
+Iris
+Makeover
+Black hair
+
+Labels for white kid 2.jpg:
+Nose
+Face
+Smile
+Jaw
+Neck
+Sleeve
+Happy
+Bangs
+Eyelash
+Black hair
+
+Labels for white kid.jpg:
+Face
+Chin
+Outerwear
+Smile
+Eye
+Neck
+Sleeve
+Collar
+Happy
+Flash photography
+
+Labels for white kids playground.jpg:
+Plant
+Botany
+Tree
+Leisure
+Red
+Smile
+Grass
+Recreation
+Fun
+Event
+
+Labels for white lady.jpg:
+Forehead
+Nose
+Cheek
+Skin
+Lip
+Lipstick
+Eyebrow
+Eyelash
+Eye liner
+Organ
+

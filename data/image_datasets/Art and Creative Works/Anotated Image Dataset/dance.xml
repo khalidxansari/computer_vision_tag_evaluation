@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Art and Creative Works</folder>
+	<filename>dance.jpg</filename>
+	<path>D:\Kings College\Dissertation\Revised Image Datasets\Art and Creative Works\dance.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ballet Dancers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>114</ymin>
+			<xmax>499</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ballet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>170</ymin>
+			<xmax>696</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Performer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>172</ymin>
+			<xmax>229</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

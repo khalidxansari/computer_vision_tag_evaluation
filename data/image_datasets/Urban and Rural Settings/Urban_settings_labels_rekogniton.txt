@@ -1,0 +1,342 @@
+Labels for african vilage.jpg:
+Nature
+Outdoors
+Countryside
+Rural
+Child
+Female
+Girl
+Person
+Hut
+Shelter
+
+Labels for african village 2.jpg:
+Bull
+Cattle
+Livestock
+Ox
+Nature
+Outdoors
+Countryside
+Rural
+Village
+Sheep
+
+Labels for african village kids.jpg:
+Nature
+Outdoors
+Countryside
+Rural
+Village
+Person
+Face
+Head
+
+Labels for architectural-styles-nyc.jpg:
+City
+Urban
+Road
+Car
+Office Building
+Bus
+Person
+Metropolis
+Terminal
+Stadium
+
+Labels for Baku.jpg:
+Architecture
+Building
+Office Building
+Convention Center
+City
+Person
+Urban
+Opera House
+Metropolis
+Terminal
+
+Labels for battersea power station.jpg:
+Architecture
+Building
+Factory
+Power Plant
+Nature
+Outdoors
+Weather
+Pollution
+Cumulus
+Sky
+
+Labels for bengali-village.jpg:
+Nature
+Outdoors
+Countryside
+Hut
+Rural
+Shelter
+Person
+Adult
+Female
+Woman
+
+Labels for China.jpg:
+Road
+City
+Tarmac
+Bicycle
+Cycling
+Person
+Adult
+Male
+Man
+People
+
+Labels for copenhagensquare.jpg:
+City
+Urban
+Downtown
+Street
+People
+Person
+Fountain
+Water
+Fire Hydrant
+Metropolis
+
+Labels for deconstructivist architecture.jpg:
+Building
+Convention Center
+Office Building
+City
+Urban
+Person
+Car
+Wheel
+Shopping Mall
+Street
+
+Labels for english country side.jpg:
+Nature
+Outdoors
+Countryside
+Suburb
+Road
+Rural
+Village
+City
+Street
+Plant
+
+Labels for Florence.jpg:
+Architecture
+Building
+Church
+Landmark
+St. Peter's Basilica
+Cityscape
+Urban
+
+Labels for ghiradelli square.jpg:
+City
+Downtown
+Urban
+Person
+Town Square
+Motorcycle
+Vehicle
+Sundial
+Fountain
+Water
+
+Labels for hamspet heath.jpg:
+Grass
+Nature
+Outdoors
+Park
+Bench
+Furniture
+Person
+Lawn
+People
+Scenery
+
+Labels for hong-kong-cityscape1.jpg:
+Building
+Cityscape
+Urban
+City
+Nature
+Outdoors
+Sky
+Metropolis
+Scenery
+Tower
+
+Labels for Hyde Park (2).jpg:
+Lake
+Nature
+Outdoors
+Water
+Aerial View
+Scenery
+
+Labels for Hyde park.jpg:
+Nature
+Outdoors
+Scenery
+Grass
+Park
+Person
+Water
+Lawn
+Lakefront
+Fountain
+
+Labels for landscape_and_architecture_in_seoul_korea..jpg:
+Building
+Water
+Waterfront
+Temple
+Fortress
+Outdoors
+Housing
+Pagoda
+Shrine
+Autumn
+
+Labels for London Big ben.jpg:
+Clock Tower
+Housing
+House
+Bridge
+Scenery
+City
+Bus
+Metropolis
+Mansion
+Palace
+
+Labels for Lou-Ruvo-Center-for-Brain-Health.jpg:
+Architecture
+Building
+City
+Office Building
+Condo
+Housing
+Urban
+High Rise
+Convention Center
+
+Labels for marina_bay_Singapore.jpg:
+City
+Cityscape
+Urban
+Waterfront
+Metropolis
+Outdoors
+Scenery
+Bridge
+Sea
+High Rise
+
+Labels for modern architecture.jpg:
+Building
+House
+Housing
+Villa
+Office Building
+Grass
+Plant
+Lawn
+Factory
+Urban
+
+Labels for Newyork central park.jpg:
+City
+Building
+Cityscape
+Urban
+Outdoors
+Nature
+Aerial View
+Water
+High Rise
+Landscape
+
+Labels for NYC aerial view.jpg:
+Road
+City
+Outdoors
+Building
+Cityscape
+Urban
+Car
+Aerial View
+Truck
+Intersection
+
+Labels for operahouse_sydney.jpg:
+Cityscape
+Urban
+City
+Landmark
+Sydney Opera House
+Outdoors
+Boat
+Vehicle
+Water
+Sea
+
+Labels for regent street christmas.jpg:
+City
+Road
+Street
+Urban
+Metropolis
+Neighborhood
+Lighting
+Car
+Building
+Bus
+
+Labels for regents park_london.jpg:
+Grass
+Nature
+Outdoors
+Park
+Fountain
+Water
+Garden
+Person
+Autumn
+Tree
+
+Labels for shanghai china.jpg:
+Architecture
+Building
+Tower
+Landmark
+Oriental Pearl TV Tower
+
+Labels for trafalgar.jpg:
+City
+Downtown
+Urban
+Handbag
+Person
+Street
+Flag
+Car
+Town Square
+Bus
+
+Labels for vatican.jpg:
+Architecture
+Building
+Church
+Landmark
+St. Peter's Basilica
+Person
+Flag
+

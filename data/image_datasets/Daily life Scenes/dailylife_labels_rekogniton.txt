@@ -1,0 +1,248 @@
+Labels for Bangor-Graduation-21.jpg:
+People
+Person
+Coat
+Adult
+Male
+Man
+Female
+Woman
+Student
+Graduation
+
+Labels for cooking at home.jpg:
+Adult
+Male
+Man
+Person
+Female
+Woman
+Cookware
+Plant
+Cooking Pot
+Stirring Food
+
+Labels for cooking-at-home.jpg:
+Cooking
+Food
+Stirring Food
+Child
+Female
+Girl
+Person
+Cooking Pot
+Pot
+Cooktop
+
+Labels for girl with shopping bags.jpg:
+Person
+Shopping
+Adult
+Female
+Woman
+Bag
+Face
+Head
+Shopping Bag
+Accessories
+
+Labels for kids in class.jpg:
+Child
+Female
+Girl
+Person
+Boy
+Male
+Monitor
+Student
+Handbag
+Kindergarten
+
+Labels for London tube rush hour.jpg:
+People
+Person
+Adult
+Male
+Man
+Boarding
+Boy
+Child
+Female
+Woman
+
+Labels for london-englanduk-covent-gardenmarketshopping-shopper.jpg:
+Kiosk
+Shorts
+Path
+City
+Adult
+Male
+Man
+Person
+Child
+Girl
+
+Labels for musician on street mixed race.jpg:
+Adult
+Male
+Man
+Person
+Guitar
+Chair
+Shoe
+Music Band
+Musician
+Performer
+
+Labels for new-orleans-musicians-luisiana.jpg:
+Adult
+Female
+Person
+Woman
+Group Performance
+Music Band
+Male
+Man
+City
+Guitar
+
+Labels for office workers-online meeting.jpg:
+Adult
+Female
+Person
+Woman
+Laptop
+Chair
+Monitor
+Mobile Phone
+Conversation
+Shoe
+
+Labels for office workers.jpeg:
+Adult
+Male
+Man
+Person
+Table
+Mobile Phone
+Laptop
+Female
+Woman
+Pen
+
+Labels for passengers-reading-books-and-newspapers-in-a-london-underground.jpg:
+Terminal
+Person
+Reading
+People
+Adult
+Female
+Woman
+Male
+Man
+Jeans
+
+Labels for people relaxing outdoors.jpg:
+Architecture
+Building
+College
+Person
+Housing
+House
+
+Labels for piccadilly-line-passengers-in-overcrowded- carriage.jpg:
+People
+Person
+Adult
+Male
+Man
+Female
+Woman
+Face
+Terminal
+Jacket
+
+Labels for reading a book on tube.jpg:
+Person
+Reading
+Adult
+Female
+Woman
+Pants
+Head
+Railway
+Train
+Terminal
+
+Labels for school-playground.jpg:
+Play Area
+Outdoor Play Area
+Outdoors
+People
+Person
+Child
+Female
+Girl
+Car
+Shoe
+
+Labels for street musicians.jpg:
+Adult
+Female
+Person
+Woman
+Mailbox
+Coat
+Music
+Musical Instrument
+Musician
+Performer
+
+Labels for teacher in class.jpg:
+School
+Adult
+Female
+Person
+Woman
+Girl
+Teen
+Classroom
+Boy
+Child
+
+Labels for two girls shopping.jpg:
+Person
+Shopping
+Face
+Happy
+Head
+Laughing
+Adult
+Female
+Woman
+Handbag
+
+Labels for vegetable seller africa.jpg:
+Adult
+Male
+Man
+Person
+Female
+Woman
+Jeans
+Market
+Farmer's Market
+Face
+
+Labels for vegetable shopper.jpg:
+Adult
+Female
+Person
+Woman
+Market
+Indoors
+Shop
+Grocery Store
+Supermarket
+Produce
+

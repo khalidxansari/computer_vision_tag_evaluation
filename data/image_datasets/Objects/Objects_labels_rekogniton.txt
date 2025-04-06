@@ -1,0 +1,300 @@
+Labels for 1_Roman_Republic_Plautius_Plancus_Denarius.jpg:
+Silver
+Coin
+Money
+Person
+Nickel
+Head
+Face
+Grenade
+Weapon
+Dime
+
+Labels for air fryer.jpg:
+Device
+Appliance
+Electrical Device
+Cooking
+Oven
+Roasting
+Food
+Pizza
+
+Labels for bicycle.jpg:
+Bicycle
+Transportation
+Vehicle
+Machine
+Wheel
+Bmx
+
+Labels for big spoons.jpg:
+Cutlery
+Spoon
+Bottle
+Shaker
+Kitchen Utensil
+Spatula
+Fork
+
+Labels for cd player.jpg:
+Cd Player
+Electronics
+Disk
+Dvd
+Cassette Player
+Tape Player
+
+Labels for chair.jpg:
+Furniture
+Chair
+Wood
+Armchair
+Indoors
+Interior Design
+Plywood
+
+Labels for coin - japenese.jpg:
+Coin
+Money
+Cross
+Symbol
+Dime
+Nickel
+
+Labels for dual cd player.jpg:
+Cd Player
+Electronics
+Disk
+Tape Player
+Cassette Player
+Dvd
+Amplifier
+Stereo
+
+Labels for fat tyre e-bike.jpg:
+Bicycle
+Transportation
+Vehicle
+Moped
+Motor Scooter
+Motorcycle
+Machine
+Wheel
+Scooter
+Suspension
+
+Labels for ferrari.jpg:
+Machine
+Wheel
+Tire
+Car
+Vehicle
+Coupe
+Sports Car
+Car Wheel
+Headlight
+Bumper
+
+Labels for inscripted coin arabic.jpg:
+Coin
+Money
+Machine
+Wheel
+Nickel
+
+Labels for iphone 15.jpg:
+Electronics
+Mobile Phone
+Phone
+
+Labels for kitchen hob.jpg:
+Indoors
+Kitchen
+Cooking Pot
+Cookware
+Pot
+Milk
+Interior Design
+Spoon
+Device
+Kitchen Island
+
+Labels for kitchen table.jpg:
+Device
+Appliance
+Electrical Device
+Microwave
+Oven
+Cooking
+Roasting
+Baking
+
+Labels for lime ebikes.jpg:
+Wheel
+Person
+Bicycle
+Vehicle
+Necklace
+Hat
+Cycling
+Motorcycle
+Face
+Tricycle
+
+Labels for london busses.jpg:
+Bus
+Transportation
+Vehicle
+Double Decker Bus
+Tour Bus
+Person
+Bus Stop
+Outdoors
+
+Labels for london fast train.jpg:
+Railway
+Train
+Transportation
+Vehicle
+Terminal
+Train Station
+Bullet Train
+Locomotive
+
+Labels for long truck.jpg:
+Transportation
+Truck
+Vehicle
+18-wheeler Truck
+
+Labels for militray truck.jpg:
+Bumper
+Vehicle
+Bulldozer
+Machine
+Armored
+Military
+Wheel
+Half Track
+Truck
+Weapon
+
+Labels for nokia old phone.jpg:
+Electronics
+Mobile Phone
+Phone
+Texting
+
+Labels for old cellphone.jpg:
+Electronics
+Phone
+Mobile Phone
+Computer
+Hand-Held Computer
+Texting
+
+Labels for old pottery 2.jpg:
+Silver
+Bowl
+Scoreboard
+Glass
+Pottery
+
+Labels for old pottery.jpg:
+Jug
+Jar
+Pottery
+Vase
+Water Jug
+Smoke Pipe
+Bulldozer
+Machine
+
+Labels for parked aeroplanes.jpg:
+Aircraft
+Airplane
+Transportation
+Vehicle
+Military Base
+Air Base
+Airfield
+Airport
+Runway
+
+Labels for piccadily line.jpg:
+Terminal
+Railway
+Train
+Train Station
+Vehicle
+Subway
+American Football (Ball)
+Computer Hardware
+Monitor
+Screen
+
+Labels for sofas.jpg:
+Couch
+Furniture
+Table
+Backyard
+Nature
+Outdoors
+Home Decor
+Cushion
+Housing
+Coffee Table
+
+Labels for take off.jpg:
+Aircraft
+Takeoff
+Vehicle
+Airliner
+Airplane
+Airport
+Flight
+Control Tower
+Tower
+Airfield
+
+Labels for type writer.jpg:
+Computer
+Computer Hardware
+Computer Keyboard
+Electronics
+Hardware
+Speaker
+Pc
+Monitor
+Screen
+Hand-Held Computer
+
+Labels for US_Marine_Corps_truck.jpg:
+Bumper
+Vehicle
+Truck
+Wheel
+Adult
+Male
+Man
+Person
+Car
+Shoe
+
+Labels for utensils.jpg:
+Cookware
+Pot
+Cooking Pot
+Food
+Cooking Pan
+Bottle
+Shaker
+Bowl
+
+Labels for walkman.jpg:
+Electronics
+Tape Player
+Cassette Player
+First Aid
+

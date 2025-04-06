@@ -1,0 +1,21 @@
+Bangor-Graduation-21: Graduation, Students, Academic, Celebration, Ceremony, Caps and Gowns, Higher Education
+cooking-at-home: Cooking, Home, Couple, Kitchen, Domestic, Food Preparation, Togetherness
+family-cooking-kitchen: Cooking, Family, Kitchen, Food Preparation, Togetherness, Home, Domestic
+girl-with-shopping-bags: Shopping, Retail, Bags, Consumerism, Fashion, Outdoors, Lifestyle
+London-tube-rush-hour: Commuting, Rush Hour, Subway, Crowded, Public Transport, Urban, Daily Life
+london-englanduk-covent-gardenmarketshopping-shopper: Market, Shopping, London, Outdoor, Retail, Daily Life, Urban
+musician-on-street-mixed-race: Street Musician, Performance, Outdoor, Culture, Art, Mixed Race, Music
+new-orleans-musicians-luisiana: Musicians, Street Performance, New Orleans, Culture, Music, Outdoor, Louisiana
+office-workers: Office, Work, Computers, Professional, Workspace, Daily Life, Technology
+office-workers-online-meeting: Meeting, Office, Work, Online, Professional, Technology, Daily Life
+kids-in-class: Classroom, Kids, Education, Learning, School, Students, Technology
+passengers-reading-books-and-newspapers-in-a-london-underground: Commuting, Reading, Subway, Books, Newspapers, London, Public Transport
+people-relaxing-outdoors: Outdoors, Relaxing, Campus, Students, Socializing, University, Green Space
+piccadilly-line-passengers-in-overcrowded-carriage: Commuting, Subway, Overcrowded, Public Transport, London, Daily Life, Urban
+reading-a-book-on-tube: Reading, Subway, Book, Commuting, Public Transport, Daily Life, Urban
+school-playground: Playground, Kids, School, Outdoor, Play, Education, Recreation
+street-musicians: Street Musicians, Performance, Outdoor, Music, Art, Culture, Daily Life
+teacher-in-class: Classroom, Teacher, Education, Learning, School, Students, Instruction
+two-girls-shopping: Shopping, Retail, Girls, Consumerism, Fashion, Lifestyle, Bags
+vegetable-seller-africa: Market, Vegetables, Seller, Africa, Outdoor, Daily Life, Trade
+vegetable-shopper: Shopping, Vegetables, Grocery, Market, Produce, Basket, Retail, Daily Life

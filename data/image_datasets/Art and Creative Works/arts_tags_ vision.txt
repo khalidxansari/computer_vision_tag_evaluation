@@ -1,0 +1,336 @@
+Labels for abstract modern art painting.png:
+Brown
+Branch
+Twig
+Wood
+Font
+Pattern
+Art
+Grass
+Beige
+Rectangle
+
+Labels for ancient sculpture.jpg:
+Vertebrate
+Statue
+Sculpture
+Jaw
+Art
+Artifact
+Creative arts
+Wood
+Metal
+Carving
+
+Labels for art-collage.jpg:
+Paint
+World
+Sky
+Art
+Painting
+Cg artwork
+Electric blue
+Graffiti
+Mural
+Watercolor paint
+
+Labels for ballet dance group.jpg:
+Organism
+Entertainment
+Dance
+Performing arts
+Choreography
+Athletic dance move
+Art
+Flash photography
+Water bird
+Seabird
+
+Labels for bronze-sculpture-of-horse-.jpg:
+Sculpture
+Statue
+Working animal
+Terrestrial animal
+Art
+Creative arts
+Pack animal
+Toy
+Snout
+Liver
+
+Labels for dance group indian dressed.jpg:
+Smile
+Dress
+Dance
+Purple
+Entertainment
+Performing arts
+Choreography
+Fun
+Performance art
+Event
+
+Labels for dance.jpg:
+Clothing
+Dance
+Human body
+Ballet shoe
+Entertainment
+Athletic dance move
+Performing arts
+Choreography
+Art
+Ballet tutu
+
+Labels for Digital art outdoors.jpg:
+Plant
+Light
+Purple
+Green
+Entertainment
+Visual effect lighting
+Performing arts
+Technology
+Tree
+Stage
+
+Labels for digital painting mountains.jpg:
+Mountain
+Atmosphere
+Cloud
+Sky
+Natural landscape
+World
+Afterglow
+Tree
+Sunlight
+Sunrise
+
+Labels for digital-illustration-outdoors.jpg:
+Sky
+World
+Ecoregion
+Light
+Nature
+Natural environment
+Mountain
+Biome
+Natural landscape
+Terrestrial plant
+
+Labels for Digital-Painting-Art-Style-city scape.jpg:
+World
+Window
+Building
+Art
+Tints and shades
+City
+Midnight
+Painting
+Landscape
+Tree
+
+Labels for Hallow-sculpture-Illinois-4.jpg:
+Cloud
+Sky
+Eye
+Plant
+Nature
+Sculpture
+Statue
+Tree
+Temple
+Wood
+
+Labels for Laumeier-Sculpture-Park-in-St.-Louis.jpg:
+Sky
+Plant
+Sculpture
+Tree
+Art
+Grass
+Gas
+Automotive tire
+Recreation
+Circle
+
+Labels for live rock band.jpg:
+Musical instrument
+Musician
+Guitar
+String instrument
+Microphone
+Public address system
+String instrument
+Guitarist
+Plucked string instruments
+Guitar accessory
+
+Labels for michelangelos-david2.jpg:
+Head
+Chin
+Arm
+Human body
+Statue
+Sculpture
+Chest
+Trunk
+Artifact
+Art
+
+Labels for music-theatre_website-900x700-1-900x500.jpg:
+Dance
+Entertainment
+Performing arts
+Event
+Smile
+Choreography
+Fun
+Performance art
+Artist
+Fashion design
+
+Labels for pop art poster.jpg:
+Painting
+Art
+Illustration
+Fictional character
+Drawing
+Event
+Visual arts
+Paint
+Mural
+Watercolor paint
+
+Labels for pop-scultpture-figure.jpg:
+Sky
+Cloud
+Statue
+Sculpture
+Building
+Art
+Landmark
+Chest
+Trunk
+Monument
+
+Labels for rock act live.jpg:
+Microphone
+Arm
+Concert
+Guitar accessory
+Music artist
+Entertainment
+Hat
+Performing arts
+Musical instrument
+Music
+
+Labels for starry-night.jpg:
+Art paint
+Paint
+Azure
+Painting
+Plant
+Art
+Grass
+Wood
+Tree
+Landscape
+
+Labels for steamp punk bear.jpg:
+Plant
+Elephant
+Working animal
+Sculpture
+Statue
+Terrestrial animal
+Tree
+Grass
+Elephants and Mammoths
+Natural landscape
+
+Labels for steampunk bull.jpg:
+Elephants and Mammoths
+Working animal
+Statue
+Sculpture
+Terrestrial animal
+Art
+Snout
+Metal
+Carving
+Auto part
+
+Labels for steampunk-sculpture-goat.jpg:
+Extinction
+Felidae
+Statue
+Jaw
+Sculpture
+Organism
+Big cats
+Carnivore
+Art
+Bengal tiger
+
+Labels for steel-sculpture.jpg:
+Sky
+Automotive design
+Art
+Sculpture
+Leisure
+Wood
+Landscape
+Circle
+Eyewear
+Metal
+
+Labels for Tate+Kids.jpg:
+Banana
+Vertebrate
+Saba banana
+Fruit
+Cooking plantain
+Gesture
+Font
+Plant
+Banana family
+Natural foods
+
+Labels for van gogh mirror less.jpg:
+Photograph
+World
+People in nature
+Light
+Blue
+Nature
+Art
+Leisure
+Fun
+Electric blue
+
+Labels for vangogh painting.jpg:
+Plant
+Art paint
+Green
+Water
+Nature
+Natural environment
+Botany
+Natural landscape
+Vegetation
+Paint
+
+Labels for Whirling-Dervish-The-Art-of-Sufi-Dance.jpg:
+Photograph
+White
+Dress
+Fashion
+Dance
+Human body
+Happy
+Entertainment
+Gesture
+Performing arts
+

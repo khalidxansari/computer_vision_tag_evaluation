@@ -1,0 +1,276 @@
+Labels for adults selfie.jpg:
+People
+Person
+Head
+Face
+Happy
+Smile
+Laughing
+Adult
+Bride
+Woman
+
+Labels for baby_girl.jpg:
+Person
+Sitting
+Face
+Head
+Photography
+Portrait
+Baby
+Happy
+Finger
+Sleeve
+
+Labels for black girl.jpg:
+Head
+Person
+Face
+Photography
+Portrait
+Skin
+Adult
+Female
+Woman
+Freckle
+
+Labels for black portrait.jpg:
+Face
+Head
+Person
+Photography
+Portrait
+Skin
+Body Part
+Neck
+Cosmetics
+Lipstick
+
+Labels for elderly doing excercise.jpg:
+People
+Person
+Head
+Adult
+Male
+Man
+Face
+Happy
+Celebrating
+Bride
+
+Labels for elderly gardening.jpg:
+Garden
+Nature
+Outdoors
+Gardening
+Adult
+Male
+Man
+Person
+Gardener
+Glove
+
+Labels for elderly playing table tennis.jpg:
+Adult
+Male
+Man
+Person
+Face
+Head
+Ping Pong Paddle
+Racket
+Sport
+Senior Citizen
+
+Labels for Elderly_woman_gardening_in_backyard_with_daughter_.jpg:
+Garden
+Nature
+Outdoors
+Gardening
+Adult
+Female
+Person
+Woman
+Hat
+Wheel
+
+Labels for eledelry gardening.jpg:
+Garden
+Nature
+Outdoors
+Gardening
+Gardener
+Person
+Adult
+Female
+Woman
+Man
+
+Labels for family photos.jpg:
+Photography
+Person
+Walking
+People
+Portrait
+Coat
+Beach
+Pants
+Adult
+Man
+
+Labels for Gladiators.pose.for.tourists.in.rome.jpg:
+Costume
+Person
+Adult
+Female
+Woman
+Male
+Man
+Handbag
+Skirt
+Baby
+
+Labels for group of people mixed.jpg:
+Photography
+Face
+Head
+Person
+Portrait
+Adult
+Female
+Woman
+Glasses
+Man
+
+Labels for kid with cows.jpg:
+Photography
+Person
+Portrait
+Grass
+Field
+Grassland
+Nature
+Outdoors
+Baby
+Livestock
+
+Labels for kids playing football.jpg:
+Boy
+Child
+Male
+Person
+Female
+Girl
+People
+Play
+Shorts
+Football
+
+Labels for kids playing in park.jpg:
+People
+Person
+Face
+Happy
+Head
+Boy
+Child
+Male
+Female
+Girl
+
+Labels for kids playing outdoors.jpg:
+Soccer Ball
+People
+Person
+Jeans
+Grass
+Boy
+Child
+Male
+Girl
+Teen
+
+Labels for people eating pizza.jpg:
+Brunch
+People
+Person
+Eating
+Pizza
+Head
+Face
+Adult
+Female
+Woman
+
+Labels for twin babies.jpg:
+Blanket
+Photography
+Face
+Head
+Person
+Portrait
+Baby
+People
+Newborn
+Sleeping
+
+Labels for white adult.jpg:
+Face
+Head
+Person
+Photography
+Portrait
+Adult
+Female
+Woman
+Smile
+Skin
+
+Labels for white kid 2.jpg:
+Photography
+Face
+Head
+Person
+Portrait
+Smile
+T-Shirt
+Boy
+Child
+Male
+
+Labels for white kid.jpg:
+Person
+Photography
+Portrait
+Blonde
+Coat
+Smile
+Jacket
+Boy
+Child
+Male
+
+Labels for white kids playground.jpg:
+Grass
+People
+Person
+Park
+Shoe
+Female
+Girl
+Teen
+Child
+Male
+
+Labels for white lady.jpg:
+Person
+Skin
+Face
+Head
+Photography
+Portrait
+Adult
+Female
+Woman
+Lipstick
+

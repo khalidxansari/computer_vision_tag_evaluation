@@ -1,0 +1,265 @@
+Labels for arab magazine.jpg:
+Photograph
+Newspaper
+Organ
+Publication
+News
+Font
+Sleeve
+Advertising
+Design
+Newsprint
+
+Labels for Arabic news paper.jpg:
+Newspaper
+Publication
+Font
+Suit
+News
+Blazer
+Advertising
+Newsprint
+Paper
+Formal wear
+
+Labels for arabic poetry with translation.jpg:
+Font
+Handwriting
+Number
+Document
+Art
+Circle
+Writing
+Rectangle
+Screenshot
+Paper product
+
+Labels for chinese poem.jpg:
+Font
+Art
+Handwriting
+Symmetry
+Pattern
+Parallel
+Electric blue
+Number
+Ink
+Drawing
+
+Labels for eng book page.png:
+Font
+Rectangle
+Material property
+Electric blue
+Parallel
+Circle
+Screenshot
+Communication Device
+Square
+Magenta
+
+Labels for eng newspaper.jpg:
+Newspaper
+Font
+Material property
+Publication
+Parallel
+Paper
+Paper product
+Monochrome
+News
+Newsprint
+
+Labels for eng page of book.jpg:
+Font
+Publication
+Paper
+Paper product
+Document
+Symmetry
+
+Labels for GoogleBooksScan.jpg:
+Font
+Paper
+Document
+Publication
+Circle
+Paper product
+
+Labels for hand written note 2.jpg:
+Handwriting
+Font
+Electric blue
+Parallel
+Writing
+Number
+Symmetry
+
+Labels for hand written note.jpg:
+Handwriting
+Rectangle
+Font
+Parallel
+Writing
+Paper
+Paper product
+Pattern
+Number
+Letter
+
+Labels for hindi poetry.jpg:
+Plant
+Font
+Terrestrial plant
+Twig
+Event
+Paper
+Rectangle
+Fashion accessory
+Paper product
+Pattern
+
+Labels for japenese script.jpg:
+Handwriting
+Book
+Font
+Paper
+Writing
+Paper product
+Document
+Publication
+Rectangle
+Art
+
+Labels for Khalil Gibran poetry.jpg:
+Nose
+Photograph
+Facial expression
+White
+Handwriting
+Jaw
+Smile
+Beard
+Gesture
+Font
+
+Labels for le-monde_1.jpg:
+Newspaper
+Publication
+Font
+Newsprint
+Paper product
+Paper
+Document
+Book
+Circle
+Parallel
+
+Labels for magazine page.jpg:
+Smile
+Newspaper
+Publication
+Sleeve
+News
+Font
+Material property
+Advertising
+Newsprint
+Tabloid
+
+Labels for magna carta.jpg:
+Book
+Font
+Publication
+Handwriting
+Paper
+Parallel
+Pattern
+Illustration
+Paper product
+Document
+
+Labels for multiple magazine covers.jpg:
+Watch
+Chin
+Hairstyle
+Human
+Analog watch
+Font
+Art
+Clock
+Tie
+Publication
+
+Labels for nat geo cover.jpg:
+Purple
+Poster
+Violet
+Font
+Magenta
+Sleeve
+Publication
+Advertising
+Graphic design
+Illustration
+
+Labels for NationalGeographic.jpg:
+Publication
+Poster
+Advertising
+Book cover
+Font
+Book
+Magazine
+Fiction
+Hair coloring
+Flesh
+
+Labels for old arabic script.jpg:
+Handwriting
+Art
+Font
+Writing
+Rectangle
+Book
+Paper
+Number
+Parallel
+Ink
+
+Labels for old newspaper.jpg:
+Newspaper
+Publication
+News
+Font
+Material property
+Newsprint
+Parallel
+Paper
+Design
+Paper product
+
+Labels for times cover.jpg:
+Arm
+Leg
+Shorts
+Active tank
+Knee
+Thigh
+Waist
+Font
+Handwriting
+Sportswear
+
+Labels for Urdu poetry.jpg:
+Handwriting
+Font
+Writing
+Art
+Darkness
+Monochrome photography
+Monochrome
+Number
+Illustration
+Event
+
